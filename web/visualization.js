@@ -10,7 +10,7 @@ class Visualizer {
       overflow: "hidden",
     });
     this.iframe.src =
-      "/extensions/TPO-API-TEST/html/" + visualSrc + ".html";
+      "/extensions/Tripo-API-ZHO/html/" + visualSrc + ".html";
     container.appendChild(this.iframe);
   }
 
