@@ -150,4 +150,6 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "TripoGLBViewer_ZHO": "TripoGLBViewer_ZHO",
 }
 
-WEB_DIRECTORY = "./web"
+WEB_DIRECTORY = {
+    "path": "./web"
+}
