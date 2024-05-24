@@ -147,7 +147,7 @@ NODE_CLASS_MAPPINGS = {
 NODE_DISPLAY_NAME_MAPPINGS = {
     "TripoAPI_Zho": "TripoAPI_Zho",
     #"TripoAPI_Animate_ZHO": "TripoAPI_Animate_ZHO",
-    "TripoGLBViewer_ZHO": "TripoGLB Viewer_ZHO",
+    "TripoGLBViewer_ZHO": "TripoGLBViewer_ZHO",
 }
 
 WEB_DIRECTORY = "./web"
